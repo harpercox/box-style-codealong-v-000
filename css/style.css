@@ -39,7 +39,7 @@ figcaption {
 .white-wood {
   background: url("../images/white-wood.jpg");
   background-size: cover;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-position: top;
   back
 }
