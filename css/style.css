@@ -38,7 +38,6 @@ figcaption {
 /*////////// BACKGROUNDS //////////*/
 .white-wood {
   background-image: url("../images/white-wood.jpg");
-  background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
 }
